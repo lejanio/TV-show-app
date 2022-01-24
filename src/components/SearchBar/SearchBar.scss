@@ -1,0 +1,13 @@
+.search-bar {
+  display: flex;
+  width: 100%;
+  padding: 20px;
+  font-size: 20px;
+  border: 0;
+  border-radius: 5px;
+  outline: none;
+
+  &:focus {
+    box-shadow: rgba(42, 151, 140, 249) -1px 1px 16px;
+  }
+}
