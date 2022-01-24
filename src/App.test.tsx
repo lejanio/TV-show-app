@@ -1,7 +1,6 @@
 import React from 'react';
 import { render, screen, fireEvent } from '@testing-library/react';
 import Main from './components/Main/Main';
-import Button from './components/Button/Button';
 
 describe('<Main />', () => {
   it('should render with initial content', () => {
