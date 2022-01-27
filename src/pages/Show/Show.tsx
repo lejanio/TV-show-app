@@ -57,7 +57,7 @@ const Show = () => {
   return (
     <div className="show--container">
       <nav>
-        <Link to="/" className="link">&lt; Back to search</Link>
+        <Link to="/TV-show-app" className="link">&lt; Back to search</Link>
       </nav>
       <h1 className="show__heading">
         {show.name}

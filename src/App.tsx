@@ -13,7 +13,7 @@ const App = () => (
       <img src={logo} alt="" width="350px" />
     </div>
     <Routes>
-      <Route path="/" element={<Main />} />
+      <Route path="/TV-show-app" element={<Main />} />
       <Route path="/shows/:id" element={<Show />} />
       <Route path="/404" element={<NotFound />} />
       <Route path="*" element={<NotFound />} />
