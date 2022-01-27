@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TV-show-app/static/css/main.3e2d56ec.chunk.css",
+    "main.js": "/TV-show-app/static/js/main.2776cd7b.chunk.js",
+    "main.js.map": "/TV-show-app/static/js/main.2776cd7b.chunk.js.map",
+    "runtime-main.js": "/TV-show-app/static/js/runtime-main.e6ef5df2.js",
+    "runtime-main.js.map": "/TV-show-app/static/js/runtime-main.e6ef5df2.js.map",
+    "static/js/2.c298ee41.chunk.js": "/TV-show-app/static/js/2.c298ee41.chunk.js",
+    "static/js/2.c298ee41.chunk.js.map": "/TV-show-app/static/js/2.c298ee41.chunk.js.map",
+    "static/js/3.dbac63a4.chunk.js": "/TV-show-app/static/js/3.dbac63a4.chunk.js",
+    "static/js/3.dbac63a4.chunk.js.map": "/TV-show-app/static/js/3.dbac63a4.chunk.js.map",
+    "index.html": "/TV-show-app/index.html",
+    "static/css/main.3e2d56ec.chunk.css.map": "/TV-show-app/static/css/main.3e2d56ec.chunk.css.map",
+    "static/js/2.c298ee41.chunk.js.LICENSE.txt": "/TV-show-app/static/js/2.c298ee41.chunk.js.LICENSE.txt",
+    "static/media/logo.65dc87d5.svg": "/TV-show-app/static/media/logo.65dc87d5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6ef5df2.js",
+    "static/js/2.c298ee41.chunk.js",
+    "static/css/main.3e2d56ec.chunk.css",
+    "static/js/main.2776cd7b.chunk.js"
+  ]
+}
