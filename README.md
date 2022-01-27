@@ -1,4 +1,4 @@
-# TV Maze App
+# TV Show Search App
 
 ## Project structure
 
@@ -10,7 +10,7 @@
 2. Show.tsx provides a more detailed view for a separate show:
    - Contains the table component
    - Carries out two API calls on mount - fetching show data, as well as season and episode data
-   - Contains state for API fetch results which are passed down to Table component
+   - Contains states for API fetch results which are passed down to Table component
    - Contains a router link back to the search view
 
 ---
