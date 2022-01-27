@@ -11,7 +11,7 @@
    - Contains the table component
    - Carries out two API calls on mount - fetching show data, as well as season and episode data
    - Contains states for API fetch results which are passed down to Table component
-   - Contains a router link back to the search view
+   - Contains a React Router link back to the search view
 
 ---
 
