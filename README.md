@@ -15,6 +15,7 @@ A working project can be found here: https://lejanio.github.io/TV-show-app
    - Contains states for API fetch results which are passed down to Table component
    - Contains a React Router link back to the search view
 
+
 ---
 
 # Getting Started with Create React App
